@@ -10,17 +10,12 @@ export type Item = {
 }
 
 export type OutputData = {
-	cursor: number
 	items: Item[]
-	count: number
-	rest: { [k: number]: Item }
 }
 
 import { searchVideo, getVideoInfo } from '$lib/bili-api'
 
 export const load: ServerLoad<any, any, OutputData> = async () => {
-	let a = await getVideoInfo('BV1w341167Gj')
-	console.log(a)
 	return {
 		cursor: 0,
 		count: 0,
