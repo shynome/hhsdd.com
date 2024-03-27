@@ -36,9 +36,10 @@ export const load: ServerLoad<any, any, OutputData> = async () => {
 				title: '狐狐是DD',
 				subtitle: '海王, 有多位后宫',
 				desc: '',
-				videos: await Promise.all([
-					getVideoInfo('BV1w341167Gj'), // Minicatty 萨摩
-				]),
+				videos: [
+					await getVideoInfo('BV1w341167Gj'), // Minicatty 萨摩
+					...(await searchVideo('萨摩 翻唱 雪狐桑 泡沫')),
+				],
 			},
 		],
 	}
