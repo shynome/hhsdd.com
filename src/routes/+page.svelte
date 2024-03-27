@@ -8,6 +8,7 @@
 	import { onMount } from 'svelte'
 	let ready = false
 	onMount(() => {
+		console.log('嘿嘿, 被狐狐看到了, 所以小小的更新下')
 		ready = true
 		current.next(false)
 		if (!dev) {
