@@ -1,3 +1,11 @@
+# 梗 hhsdd
+
+- [x] 狐狐是垫的
+- [x] 狐狐是大的 (错误的 gachi 想法)
+- [x] 狐狐是 DD (海王)
+- [ ] 狐狐是对的 (也是错误的 gachi 想法)
+- [ ] [狐狐是大吊](https://www.bilibili.com/opus/1125718964226228225) (好好笑, 有雪狐自己发出)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
