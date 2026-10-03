@@ -4,7 +4,8 @@
 - [x] 狐狐是大的 (错误的 gachi 想法)
 - [x] 狐狐是 DD (海王)
 - [ ] 狐狐是对的 (也是错误的 gachi 想法)
-- [ ] [狐狐是大吊](https://www.bilibili.com/opus/1125718964226228225) (好好笑, 有雪狐自己发出)
+- [ ] [狐狐是大吊](https://www.bilibili.com/opus/1125718964226228225) (好好笑, 由雪狐自己发出)
+- [ ] [狐狐是跌的](https://www.bilibili.com/video/BV1nuHe6DEV5/) 
 
 # create-svelte
 
